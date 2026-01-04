@@ -1,6 +1,6 @@
 ### Hi there, I'm Cristian! 👋
 
-I am a **Computer Systems Engineering Student at IPN (ESCOM)**, specializing in **Backend Development** with Java ecosystem. I am passionate about building scalable software, applying clean code principles, and cloud architecture.
+I am a **Computer Systems Engineering Student at IPN (ESCOM)**, specializing in **Backend Development** with Java ecosystem. I am deeply passionate about **Software Quality Assurance**, implementing **Automated Testing**, and applying **Clean Code** principles in cloud architectures.
 
 - 🔭 I’m currently working on **Legal System Architectures**.
 - 🌱 I’m currently learning **GCP**.
@@ -16,6 +16,8 @@ I am a **Computer Systems Engineering Student at IPN (ESCOM)**, specializing in 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-788B52?style=for-the-badge&logo=mockito&logoColor=white" />
 </p>
 
 **Data & Cloud:**
@@ -36,6 +38,4 @@ I am a **Computer Systems Engineering Student at IPN (ESCOM)**, specializing in 
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cristian5c26l&show_icons=true&theme=minimal&hide_border=true" alt="Cristian's Github Stats" />
-</p>
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian5c26l&show_icons=true&theme=transparent&hide_border=true)
