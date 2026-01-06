@@ -33,9 +33,3 @@ I am a **Computer Systems Engineering Student at IPN (ESCOM)**, specializing in 
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://stats.hyo.dev/api/github-stats-advanced?login=Cristian5c26l)
