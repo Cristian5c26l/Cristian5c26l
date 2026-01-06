@@ -38,4 +38,7 @@ I am a **Computer Systems Engineering Student at IPN (ESCOM)**, specializing in 
 
 ### 📊 GitHub Stats
 
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian5c26l&show_icons=true&theme=transparent&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cristian5c26l&show_icons=true&theme=dark&hide_border=true" alt="Cristian's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian5c26l&layout=compact&theme=dark&hide_border=true" alt="Cristian's Top Languages" />
+</p>
