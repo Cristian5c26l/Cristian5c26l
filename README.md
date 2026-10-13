@@ -1,34 +1,30 @@
-### Hi there, I'm Cristian! 👋
+# Hi there, I'm Cristian! 👋
 
-I am a **Computer Systems Engineering Student at IPN (ESCOM)**, transitioning into **Machine Learning Engineering** and **Backend Systems**. I am passionate about bridging the gap between **Software Engineering** and **Data Science**, building scalable architectures on **GCP** and applying **Automated Testing** to data pipelines.
+I'm a **Software Engineer** and **Computer Systems Engineering Student at IPN-ESCOM**, currently working as a **Middleware & Operations Engineer at T-Systems**. I specialize in building scalable backend services, designing resilient architectures, and maintaining mission-critical enterprise environments.
 
-- 🔭 I’m currently architecting a **Digital Legal Management System** (focused on Data & Architecture).
-- 🌱 I’m currently learning **MLOps & GCP**.
-- 👯 I’m looking to collaborate on **Python & Data Engineering projects**.
-- 💬 Ask me about **Python, Cloud Architecture, and Linear Algebra**.
+- 🔭 **Currently building:** Scalable microservices with Java (Spring Boot) and Python (FastAPI).
+- ⚙️ **Production focus:** Enterprise middleware, Linux environments, high availability, and cloud deployments (AWS / GCP).
+- 🌱 **Currently exploring:** Advanced Algorithms, Data Structures & Distributed Systems Design.
+- 💬 **Ask me about:** Java, Python, Spring Boot, Linux/Bash, SQL, and Hexagonal Architecture.
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/cristian-hernández-61a2a13a6/)
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack & Tools
 
-**Data Science & ML:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  </p>
+**Languages & Frameworks:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Backend & Infrastructure:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+**Cloud & Infrastructure:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Engineering Practices:**
-<p align="left">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=clean-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-</p>
+**Databases & Tools:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
